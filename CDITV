@@ -1,19 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id=" tvg-name="Adult Swim" tvg-logo="https://i.ibb.co/YZzvB8B/adultswim.png" 
+#EXTINF:-1 tvg-id="Adult Swim" tvg-logo="https://i.ibb.co/YZzvB8B/adultswim.png" 
 http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/f2c3cfc1-9f37-4e74-874b-bf599c0b9c97.ts
-#EXTINF:-1 tvg-id=" tvg-name="AMC" tvg-logo="https://lgaz.cc/img/ZnprfK5.png"
+#EXTINF:-1 tvg-id="AMC" tvg-logo="https://lgaz.cc/img/ZnprfK5.png"
 http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/49bb2bc7-c6e3-4b44-bb9e-933fc3ea4af5.ts
-#EXTINF:-1 tvg-id=" tvg-name="AXN HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032017/untitled-2_15.png" 
+#EXTINF:-1 tvg-id="AXN HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032017/untitled-2_15.png" 
 http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/e8ae4d09-a47d-4368-96e0-cd88e3da9168.ts
-#EXTINF:-1 tvg-id=" tvg-name="Azteca Deportes" tvg-logo="https://lgaz.cc/img/U5e3Vmr.png" group-title="Deportes",Azteca Deportes
-#EXTINF:-1 tvg-id=" tvg-name="Bandamax" tvg-logo="https://lgaz.cc/img/zyT9H99.png" 
+#EXTINF:-1 tvg-id="Azteca Deportes" tvg-logo="https://lgaz.cc/img/U5e3Vmr.png" group-title="Deportes",Azteca Deportes
+#EXTINF:-1 tvg-id="Bandamax" tvg-logo="https://lgaz.cc/img/zyT9H99.png" 
 http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/620b6a22-5487-4006-8f9e-e0cf6d989b1e.ts
-#EXTINF:-1 tvg-id=" tvg-name=" MLB Network" tvg-logo="https://lgaz.cc/img/GBjTaF9.png" 
+#EXTINF:-1 tvg-id=" MLB Network" tvg-logo="https://lgaz.cc/img/GBjTaF9.png" 
 http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/6df8a465-75dc-4a1f-94fb-632402d97c2f.ts
-#EXTINF:-1 tvg-id="tvg-name="FOX Sports 1 MX HD" tvg-logo="https://lgaz.cc/img/SLrPvXC.png" 
+#EXTINF:-1 tvg-id="FOX Sports 1 MX HD" tvg-logo="https://lgaz.cc/img/SLrPvXC.png" 
 http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/4dae54d3-9c56-47d7-80d9-8120c6ba1376.ts
-#EXTINF:-1 tvg-id="tvg-name="FOX SPORTS PREMIUM MX" tvg-logo="https://lgaz.cc/img/FI8osXa.png"
+#EXTINF:-1 tvg-id="FOX SPORTS PREMIUM MX" tvg-logo="https://lgaz.cc/img/FI8osXa.png"
 http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/bae36ebf-6446-40a4-95dc-e41dd1abde93.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports Premium MX HD" tvg-logo="https://lgaz.cc/img/FI8osXa.png" 
+#EXTINF:-1 tvg-id="FOX Sports Premium MX HD" tvg-logo="https://lgaz.cc/img/FI8osXa.png" 
 http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/2d078854-d967-4b61-8d6b-94f1994938d7.ts
