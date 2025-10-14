@@ -1,15 +1,19 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-id="aandemundo.mx" tvg-name="A&E" tvg-logo="https://lgaz.cc/img/lobfia4.png" group-title="Entretenimiento",A&E
-http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/c0f2691a-0c82-4143-9dd1-4589b7a6b3d5.ts
-#EXTINF:-1 tvg-id="aande.mx" tvg-name="A&E HD" tvg-logo="https://lgaz.cc/img/lobfia4.png" group-title="Entretenimiento",A&E HD
-http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/0f651c3c-d1b8-4287-87c1-86cd7f8ec78f.ts
-#EXTINF:-1 tvg-id="aandemundo.mx" tvg-name="A&E FHD" tvg-logo="https://lgaz.cc/img/lobfia4.png" group-title="Entretenimiento",A&E FHD
-http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/9e3b24ce-9bac-4b46-ade8-8986d6352587.ts
-#EXTINF:-1 tvg-id="403439" tvg-name="A3 Series Internacional" tvg-logo="https://lgaz.cc/img/n2LFjLS.png" group-title="Entretenimiento",A3 Series Internacional
-http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/1dd50fbf-ac23-4856-bc04-7d582bb69dd2.ts
-#EXTINF:-1 tvg-id="403439" tvg-name="A3 Series Internacional FHD" tvg-logo="https://lgaz.cc/img/n2LFjLS.png" group-title="Entretenimiento",A3 Series Internacional FHD
-http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/77910bc3-aff2-4b35-95c6-947f83c382c1.ts
-#EXTINF:-1 tvg-id="Lucha.Libre.AAA.us" tvg-name="AAA" tvg-logo="https://lgaz.cc/img/jNLoaau.png" group-title="Deportes",AAA
-http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/fcad2289-28f9-461c-b465-f1965cfd8c37.ts
+#EXTINF:-1 tvg-id=" tvg-name="Adult Swim" tvg-logo="https://i.ibb.co/YZzvB8B/adultswim.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/f2c3cfc1-9f37-4e74-874b-bf599c0b9c97.ts
+#EXTINF:-1 tvg-id=" tvg-name="AMC" tvg-logo="https://lgaz.cc/img/ZnprfK5.png"
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/49bb2bc7-c6e3-4b44-bb9e-933fc3ea4af5.ts
+#EXTINF:-1 tvg-id=" tvg-name="AXN HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032017/untitled-2_15.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/e8ae4d09-a47d-4368-96e0-cd88e3da9168.ts
+#EXTINF:-1 tvg-id=" tvg-name="Azteca Deportes" tvg-logo="https://lgaz.cc/img/U5e3Vmr.png" group-title="Deportes",Azteca Deportes
+#EXTINF:-1 tvg-id=" tvg-name="Bandamax" tvg-logo="https://lgaz.cc/img/zyT9H99.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/620b6a22-5487-4006-8f9e-e0cf6d989b1e.ts
+#EXTINF:-1 tvg-id=" tvg-name=" MLB Network" tvg-logo="https://lgaz.cc/img/GBjTaF9.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/6df8a465-75dc-4a1f-94fb-632402d97c2f.ts
+#EXTINF:-1 tvg-id="tvg-name="FOX Sports 1 MX HD" tvg-logo="https://lgaz.cc/img/SLrPvXC.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/4dae54d3-9c56-47d7-80d9-8120c6ba1376.ts
+#EXTINF:-1 tvg-id="tvg-name="FOX SPORTS PREMIUM MX" tvg-logo="https://lgaz.cc/img/FI8osXa.png"
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/bae36ebf-6446-40a4-95dc-e41dd1abde93.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports Premium MX HD" tvg-logo="https://lgaz.cc/img/FI8osXa.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/2d078854-d967-4b61-8d6b-94f1994938d7.ts
