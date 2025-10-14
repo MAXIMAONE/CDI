@@ -1,0 +1,15 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="aandemundo.mx" tvg-name="A&E" tvg-logo="https://lgaz.cc/img/lobfia4.png" group-title="Entretenimiento",A&E
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/c0f2691a-0c82-4143-9dd1-4589b7a6b3d5.ts
+#EXTINF:-1 tvg-id="aande.mx" tvg-name="A&E HD" tvg-logo="https://lgaz.cc/img/lobfia4.png" group-title="Entretenimiento",A&E HD
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/0f651c3c-d1b8-4287-87c1-86cd7f8ec78f.ts
+#EXTINF:-1 tvg-id="aandemundo.mx" tvg-name="A&E FHD" tvg-logo="https://lgaz.cc/img/lobfia4.png" group-title="Entretenimiento",A&E FHD
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/9e3b24ce-9bac-4b46-ade8-8986d6352587.ts
+#EXTINF:-1 tvg-id="403439" tvg-name="A3 Series Internacional" tvg-logo="https://lgaz.cc/img/n2LFjLS.png" group-title="Entretenimiento",A3 Series Internacional
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/1dd50fbf-ac23-4856-bc04-7d582bb69dd2.ts
+#EXTINF:-1 tvg-id="403439" tvg-name="A3 Series Internacional FHD" tvg-logo="https://lgaz.cc/img/n2LFjLS.png" group-title="Entretenimiento",A3 Series Internacional FHD
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/77910bc3-aff2-4b35-95c6-947f83c382c1.ts
+#EXTINF:-1 tvg-id="Lucha.Libre.AAA.us" tvg-name="AAA" tvg-logo="https://lgaz.cc/img/jNLoaau.png" group-title="Deportes",AAA
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/fcad2289-28f9-461c-b465-f1965cfd8c37.ts
