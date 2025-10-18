@@ -30,6 +30,8 @@ http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/cd84c0bf-e8af-4708-9641-cd4aa71
 http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/da83fd67-134f-4b1b-a2b0-570eb320ef01.ts
 #EXTINF:-1 tvg-id="cartoonnetwork.mx" tvg-name="Cartoon Network" tvg-logo="https://lgaz.cc/img/cBOtP8a.png" 
 http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/277357f2-817d-41f2-bd5f-e3c2389026bd.ts
+#EXTINF:-1 tvg-id="Canal.Claro.TV.cl" tvg-name="Canal Claro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/CanalClaro.jpg" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/117566af-452a-42f4-a82c-bc4d54c49b73.ts
 #EXTINF:-1 tvg-id="cineestelar.us" tvg-name="Cine Estelar" tvg-logo="https://i.ibb.co/3mJKNJT8/UQYpJRD.png" 
 http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/4602e4e0-aa92-4aa7-bebf-a54a3a56ab44.ts
 #EXTINF:-1 tvg-id="cinelatino.mx" tvg-name="Cine Latino HD" tvg-logo="https://lgaz.cc/img/PecjymF.png" 
@@ -42,9 +44,7 @@ http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/eec1ddc6-a07a-4401-b3e9-72d1ec5
 http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/8879d526-9642-46e5-8275-354c3c4f153a.ts
 #EXTINF:-1 tvg-id="cinemax.mx" tvg-name="Cinemax FHD" tvg-logo="https://lgaz.cc/img/ybIWfWS.png" 
 http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/0fb0709a-5856-4bef-b2ca-5c9b2bdb2817.ts
-#EXTINF:-1 tvg-id="clarcinema.co" tvg-name="Claro Cinema HD" tvg-logo="https://lgaz.cc/img/JHE4bgO.png" 
-http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/be767e6b-2f3e-41bc-ae94-2e8d442728db.ts
-#EXTINF:-1 tvg-id="cnnespanol.us" tvg-name="CNN En espanol" tvg-logo="https://lgaz.cc/img/m8ONIgv.png" 
+#EXTINF:-1 tvg-id="tvg-name="CNN En espanol" tvg-logo="https://lgaz.cc/img/m8ONIgv.png" 
 http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/b6069637-3bb9-41d2-a8d2-34a2c60cf5fc.ts
 #EXTINF:-1 tvg-id="comedycentral.mx" tvg-name="Comedy central FHD" tvg-logo="https://lgaz.cc/img/5yg1hGk.png"
 http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/234524d4-1470-4951-9c89-a70d818cb294.ts
@@ -52,11 +52,267 @@ http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/234524d4-1470-4951-9c89-a70d818
 http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/c688bb56-e0e9-4e82-b71c-7f2fec515f35.ts
 #EXTINF:-1 tvg-id="tvg-name="De Pelicula+Plus HD" tvg-logo="https://lgaz.cc/img/ipKteSv.png" 
 http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/feaf2179-ad44-41ac-ad1f-cdae4c83e5db.ts
+#EXTINF:-1 tvg-id="8345" tvg-name="De Pelicula Clasico" tvg-logo="https://lgaz.cc/img/oH9y252.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/27fecc95-7dad-4be7-989e-93557428d96d.ts
 #EXTINF:-1 tvg-id="DHE.uy" tvg-name="DHE HD" tvg-logo="https://lgaz.cc/img/Zthj3np.png" 
 http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/6d737d87-e94e-48d1-a6d6-d628c3878931.ts
 #EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="Discovery Channel HD" tvg-logo="https://lgaz.cc/img/8cARvFQ.png" 
 http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/1fb0071d-8689-4ce5-97c1-2b51f8f074c2.ts
+#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="Discovery Investigation HD" tvg-logo="https://lgaz.cc/img/iwuxiq1.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/c40283c4-d29e-4135-80a6-60a6ae2dd8f9.ts
+#EXTINF:-1 tvg-id="discoveryturbo.mx" tvg-name="Discovery Turbo" tvg-logo="https://lgaz.cc/img/VrfVdNW.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/134cbef6-aa05-49b8-8597-f8385a7a8e79.ts
+#EXTINF:-1 tvg-id="discoveryturbo.mx" tvg-name="Discovery Turbo HD" tvg-logo="https://lgaz.cc/img/VrfVdNW.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/d92abcff-eac1-4280-a85b-cee6fc849ec6.ts
 #EXTINF:-1 tvg-id="tudn.mx" tvg-name="TUDN USA FHD" tvg-logo="https://lgaz.cc/img/FbT8oqo.png" 
 http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/6fb60db2-e5b9-490e-804c-60b9765a36ff.ts
-
-
+#EXTINF:-1 tvg-id="disneychannel.mx" tvg-name="Disney Channel HD" tvg-logo="https://lgaz.cc/img/MclBXDy.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/1b52e926-07a8-4e84-8987-5ebd0616d968.ts
+#EXTINF:-1 tvg-id="disneyjunior.mx" tvg-name="Disney JR" tvg-logo="https://lgaz.cc/img/gWZPC3A.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/ce5d7008-1240-4d18-adc7-16d22dda1b9c.ts
+#EXTINF:-1 tvg-id="disneyxd.mx" tvg-name="Disney XD (eng)" tvg-logo="https://lgaz.cc/img/Td9sPLR.png"
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/3a8b6713-2508-4730-86fc-152cf2c6617b.ts
+#EXTINF:-1 tvg-id="distritocomedia.mx" tvg-name="Distrito Comedia" tvg-logo="https://i.ibb.co/xKh9vBKh/mXZCoih.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/1d3f053a-e468-4490-aba0-138ece9efc37.ts
+#EXTINF:-1 tvg-id="dwdeutschplus.mx" tvg-name="DW En Espanol FHD" tvg-logo="https://lgaz.cc/img/nXzqG0g.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/f2bd4c60-8264-4a35-9aff-ec75a3fd9eb8.ts
+#EXTINF:-1 tvg-id="elgourmet.mx" tvg-name="El Gourmet HD" tvg-logo="https://lgaz.cc/img/N6Qeo5Z.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/9917d8be-a308-4e90-be46-e86516a4dba2.ts
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="ESPN 1 MX" tvg-logo="https://lgaz.cc/img/w6QBR5s.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/015e8024-3264-496b-81de-73d13139d899.ts
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="ESPN 1 MX HD" tvg-logo="https://lgaz.cc/img/r5kftbo.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/09602a05-6537-40f6-981e-95fb71fc7377.ts
+#EXTINF:-1 tvg-id="espn2.mx" tvg-name="ESPN 2 MX" tvg-logo="https://lgaz.cc/img/sDD0Q2O.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/2ab9ce8c-57a8-4f71-b134-08d26012c3e2.ts
+#EXTINF:-1 tvg-id="espn2.mx" tvg-name="ESPN 2 MX HD" tvg-logo="https://lgaz.cc/img/sDD0Q2O.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/7eb58253-ef16-43b4-b081-392e69af4a59.ts
+#EXTINF:-1 tvg-id="espn3.mx" tvg-name="ESPN 3 MX" tvg-logo="https://lgaz.cc/img/7dMKKTO.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/46ba2a09-5786-4810-aa5b-d05fc41ac38e.ts
+#EXTINF:-1 tvg-id="espn3.mx" tvg-name="ESPN 3 MX HD" tvg-logo="https://lgaz.cc/img/7dMKKTO.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/23a34fbd-3c7a-409c-9121-3ad225087be7.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5" tvg-logo="https://lgaz.cc/img/qkjQ40e.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/5ac16296-43bb-4bf7-aefe-e449a3e36460.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 6" tvg-logo="https://lgaz.cc/img/35lOWHI.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/264450a7-13fe-4b93-a5a3-74d40bffe7a7.ts
+#EXTINF:-1 tvg-id="espndeportes.us" tvg-name="ESPN Deportes" tvg-logo="https://lgaz.cc/img/U3kYLKO.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/167daa60-1310-425f-94b4-79c14fc98e47.ts
+#EXTINF:-1 tvg-id="EXA TV" tvg-name="EXA TV" tvg-logo="https://lgaz.cc/img/kWstpbx.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/c9c3f4e8-5db9-41d2-8b03-ad9c56782cc0.ts
+#EXTINF:-1 tvg-id="forotv.mx" tvg-name="Foro TV" tvg-logo="https://i.ibb.co/MCsHbn8/images-1.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/50fd0b11-3475-4c63-815b-9e02bc1ad753.ts
+#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="FOX Deportes" tvg-logo="https://i.ibb.co/Y4qFPhrS/foxd.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/c5b353a2-ef8d-46dc-b82f-b28caece98d9.ts
+#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="FOX Deportes HD" tvg-logo="https://i.ibb.co/Y4qFPhrS/foxd.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/48a649bc-aea2-4435-8db4-c81414a4df36.ts
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="FOX Sports 1 MX" tvg-logo="https://lgaz.cc/img/SLrPvXC.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/11bf4d19-9c76-4914-af7f-677baaf0b78b.ts
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="FOX Sports 1 MX HD" tvg-logo="https://lgaz.cc/img/SLrPvXC.png"
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/4dae54d3-9c56-47d7-80d9-8120c6ba1376.ts
+#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="FOX Sports 2 MX" tvg-logo="https://i.ibb.co/87kLRhk/fox-2.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/bb4e1505-ceaa-49e4-8531-e471fecfef85.ts
+#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="FOX Sports 2 MX HD" tvg-logo="https://i.ibb.co/87kLRhk/fox-2.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/a64726fa-dec3-43b0-b99a-d446b0365a05.ts
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="FOX Sports 3 MX" tvg-logo="https://lgaz.cc/img/SqkLrOK.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/6fbe729a-fc9f-4116-b0f3-963374aa157e.ts
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="FOX Sports 3 MX HD" tvg-logo="https://lgaz.cc/img/SqkLrOK.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/aad23070-b31d-4ab2-8ac1-5e9c726299ab.ts
+#EXTINF:-1 tvg-id="fx.mx" tvg-name="FX" tvg-logo="https://lgaz.cc/img/WVI4nIR.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/ca2b3b55-0b8f-4712-b48c-f766858fdc80.ts
+#EXTINF:-1 tvg-id="fx.mx" tvg-name="FX HD" tvg-logo="https://lgaz.cc/img/WVI4nIR.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/c32822a6-ba7a-4e5c-9512-cac52ce524c7.ts
+#EXTINF:-1 tvg-id="galavision.us" tvg-name="Galavision" tvg-logo="https://lgaz.cc/img/bq2KSgv.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/a12b1c63-8697-4af7-85fa-188b195544ad.ts
+#EXTINF:-1 tvg-id="goldenedge.mx" tvg-name="Golden Edge FHD" tvg-logo="https://lgaz.cc/img/j3Wy9eP.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/9cc125a7-b9d5-4ef8-8c4a-2e3e07ca0e63.ts
+#EXTINF:-1 tvg-id="GOLDEN.PLUS.uy" tvg-name="Golden Plus" tvg-logo="https://lgaz.cc/img/NpPL3GU.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/2f0413a3-a5fe-4589-8aaf-af45cc4a9aca.ts
+#EXTINF:-1 tvg-id="GOLDEN.PLUS.uy" tvg-name="Golden Plus HD" tvg-logo="https://lgaz.cc/img/NpPL3GU.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/5374089d-fc74-4aac-bda4-29f8a9777e08.ts
+#EXTINF:-1 tvg-id="goldenpremier.mx" tvg-name="Golden Premier" tvg-logo="https://lgaz.cc/img/z1hE77U.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/d43b5148-63f2-4d43-a861-ccc0a85f1d11.ts
+#EXTINF:-1 tvg-id="GOLDEN" tvg-name="Golden HD" tvg-logo="https://lgaz.cc/img/6vrGVB5.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/c8491961-757c-4334-bfeb-b06ab4706f8d.ts
+#EXTINF:-1 tvg-id="hbo.mx" tvg-name="HBO" tvg-logo="https://lgaz.cc/img/RJdfXRB.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/1c5b64f4-fe31-4e00-b9bf-75e6d6d4b311.ts
+#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="HBO 2 HD" tvg-logo="https://lgaz.cc/img/AyAPCgm.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/a09dda5e-3c9a-42ef-a78d-a8dd4ac1f0b6.ts
+#EXTINF:-1 tvg-id="tvg-name="HBO Family" tvg-logo="https://lgaz.cc/img/BdswAey.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/985a36bb-054f-4224-a71d-ea1ebafabc85.ts
+#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="HBO Plus HD" tvg-logo="https://lgaz.cc/img/ux0YZse.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/75d893eb-7e77-45a5-9f86-3f810f0b043f.ts
+#EXTINF:-1 tvg-id="hbopo.mx" tvg-name="HBO POP" tvg-logo="https://lgaz.cc/img/MwzFsi5.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/b0860b2d-d369-46f3-8661-dae7d8e9c3fc.ts
+#EXTINF:-1 tvg-id="hboxtreme.co" tvg-name="HBO Xtreme" tvg-logo="https://lgaz.cc/img/yC1ZREX.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/38a53417-4225-4ee2-9970-c7ab7da8add5.ts
+#EXTINF:-1 tvg-id="hboxtreme.co" tvg-name="HBO Xtreme HD" tvg-logo="https://lgaz.cc/img/yC1ZREX.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/d0b9f89d-6ceb-48e2-833b-c71447d38dc3.ts
+#EXTINF:-1 tvg-id="history.co" tvg-name="History" tvg-logo="https://lgaz.cc/img/lhuH7zF.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/5d03397d-5533-4d14-8f32-7591c0df93f4.ts
+#EXTINF:-1 tvg-id="tvg-name="History HD" tvg-logo="https://lgaz.cc/img/lhuH7zF.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/2542e73f-45c9-437b-9700-0023086a8f8a.ts
+#EXTINF:-1 tvg-id="history2.mx" tvg-name="History 2 FHD" tvg-logo="https://i.ibb.co/C0bKCHD/images-2.jpg"
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/50c53d6a-a16e-4e27-8b72-a0591c153cce.ts
+#EXTINF:-1 tvg-id="UFC ULTIMATE" tvg-logo="https://i.pinimg.com/originals/fb/ba/e3/fbbae321652f053755bb43dde2af8975.png"
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/0d5bfdb0-3b42-477b-a699-dc9ee510721f.ts
+#EXTINF:-1 tvg-id="telemundokrdo.us" tvg-name="Telemundo Colorado" tvg-logo="https://lgaz.cc/img/xM3bf2u.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/886e0640-1ebd-4a43-93c9-5ce4572ce6ef.ts
+#EXTINF:-1 tvg-id="tvg-name="Unimas HD" tvg-logo="https://lgaz.cc/img/eLIc5rQ.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/177a1eb6-e701-49a5-a177-0aa0aecd875b.ts
+#EXTINF:-1 tvg-id="univision34wuvg.us" tvg-name="Univision Atlanta" tvg-logo="https://lgaz.cc/img/0HnGkFk.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/916e5e7a-b8a7-4c17-a8aa-96d0e3e1cd13.ts
+#EXTINF:-1 tvg-id="" tvg-name="MC Mexican" tvg-logo="https://lgaz.cc/img/HaWUTE9.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/1d774b8f-e034-4be3-b796-77f1e08d0e61.ts
+#EXTINF:-1 tvg-id="tvg-name="Milenio HD" tvg-logo="https://i.ibb.co/vJ1nCLt/mx-milenio-tv-m.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/bc1ebac2-5f21-4846-b191-b6714d637c7e.ts
+#EXTINF:-1 tvg-id="mtv.mx" tvg-name="MTV HD" tvg-logo="https://lgaz.cc/img/FW18oWt.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/55f0f295-0207-4ee5-a83b-e88a476c8697.ts
+#EXTINF:-1 tvg-id="mtv.mx" tvg-name="MTV FHD" tvg-logo="https://lgaz.cc/img/FW18oWt.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/53f8c00a-93fd-4a92-ac56-f3d2ee8cf5e4.ts
+#EXTINF:-1 tvg-id="8345" tvg-name="MTV Live HD" tvg-logo="https://lgaz.cc/img/5MA3Ljx.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/f490a4ca-f546-440e-a045-7af258242916.ts
+#EXTINF:-1 tvg-id="multicinema.mx" tvg-name="Multicinema" tvg-logo="https://lgaz.cc/img/zvS17dF.png"
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/be27b83f-1500-479c-8776-d21c1179e09b.ts
+h#EXTINF:-1 tvg-id="multipremier.mx" tvg-name="Multipremier" tvg-logo="https://i.ibb.co/27kyWsLb/mult.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/4d4ba0e5-e1fe-4a68-84bd-4463581d5ba7.ts
+#EXTINF:-1 tvg-id="403743" tvg-name="Nat Geo Mundo" tvg-logo="https://lgaz.cc/img/H4cLXLx.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/31c9070b-fc8c-4290-8470-56914453693a.ts
+#EXTINF:-1 tvg-id="tvg-name="NBC Universo HD" tvg-logo="https://lgaz.cc/img/1LolYCJ.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/5aaa2fce-9fda-4279-ac2d-d837b4d36494.ts
+#EXTINF:-1 tvg-id="tvg-name="Nick Jr" tvg-logo="https://i.pinimg.com/originals/1d/3f/7b/1d3f7bd505a7c5bbf5cc46b5b5a31145.jpg" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/1e949820-61f0-4453-9c5c-dc10e90b48d3.ts
+#EXTINF:-1 tvg-id="nickelodeon.mx" tvg-name="Nickelodeon" tvg-logo="https://lgaz.cc/img/8HPyijB.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/23b23b7a-ed34-4b9b-8caa-b881fd280bc8.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon Clásico" tvg-logo="https://lgaz.cc/img/8HPyijB.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/d995df8b-5dbf-45ab-a144-735f6b421136.ts
+#EXTINF:-1 tvg-id="" tvg-name="Once NIñas y Niños" tvg-logo="https://lgaz.cc/img/3YDopE7.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/dd16d962-7711-4ab9-9707-f347224f1a9d.ts
+#EXTINF:-1 tvg-id="paramountchannel.mx" tvg-name="Paramount Network" tvg-logo="https://lgaz.cc/img/YlxkxAq.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/54a0b463-006e-4a76-9d1f-1933ac638648.ts
+#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="Real Madrid TV" tvg-logo="https://lgaz.cc/img/Jps3cHo.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/fa39c4d1-5102-4fd1-a7f1-a82282cd90b9.ts
+#EXTINF:-1 tvg-id=" tvg-name="RT en Espanol" tvg-logo="https://lgaz.cc/img/YnpET0u.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/f4204d6e-d99d-47db-8efc-06ba78944ac2.ts
+#EXTINF:-1 tvg-id="beinsports4.us" tvg-name="S| Bein Sports 4" tvg-logo="https://lgaz.cc/img/NeQSNTj.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/3efb7e5f-69b4-4215-be2c-57137862ba98.ts
+#EXTINF:-1 tvg-id="nbcsportsbayarea.us" tvg-name="S| NBC Sports Bay Area" tvg-logo="https://lgaz.cc/img/csDjs5c.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/9d18cb9e-bb8e-4dec-a259-d28a5549f7f0.ts
+#EXTINF:-1 tvg-id="sonyhd.mx" tvg-name="Sony Channel" tvg-logo="https://lgaz.cc/img/j3FtnzQ.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/ea30318b-5450-4a1a-b739-ce43695b1ec0.ts
+#EXTINF:-1 tvg-id="sonyhd.mx" tvg-name="Sony Channel HD" tvg-logo="https://lgaz.cc/img/j3FtnzQ.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/7db545c9-61c6-4204-a297-20d6c653209c.ts
+#EXTINF:-1 tvg-id=" tvg-name="Sony Movies FHD" tvg-logo="https://i.ibb.co/rRsvWFqL/1tmRd7C.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/55efc7d1-2091-42c5-b43b-fc8f97dfeec7.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony Novelas" tvg-logo="https://lgaz.cc/img/ClVYVYp.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/361fd237-3417-45a3-a515-b08cedaa19e5.ts
+#EXTINF:-1 tvg-id="space.mx" tvg-name="Space" tvg-logo="https://lgaz.cc/img/nNLcGDu.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/a706b156-0216-487f-8f03-e1f6dc162ce0.ts
+#EXTINF:-1 tvg-id="space.mx" tvg-name="Space HD" tvg-logo="https://lgaz.cc/img/nNLcGDu.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/a656ee21-7be4-4041-bcf1-5d910003b986.ts
+#EXTINF:-1 tvg-id="fox.mx" tvg-name="Star Channel" tvg-logo="https://lgaz.cc/img/IRtjbA9.png"
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/fda2d333-308e-41df-9288-d4cdec389ee0.ts
+#EXTINF:-1 tvg-id="fox.mx" tvg-name="Star Channel HD" tvg-logo="https://lgaz.cc/img/IRtjbA9.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/3d9092f3-dc8b-434e-9e3a-17be10f5f3a1.ts
+#EXTINF:-1 tvg-id="studiouniversal.mx" tvg-name="Studio Universal" tvg-logo="https://lgaz.cc/img/u5nrgVS.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/e2f9ec15-3324-4a7c-805a-638b26efa965.ts
+#EXTINF:-1 tvg-id="tbs.co" tvg-name="TBS HD" tvg-logo="https://lgaz.cc/img/KebszMW.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/39744169-e221-4d5c-962b-f04be2ab5f18.ts
+#EXTINF:-1 tvg-id="teleformula.mx" tvg-name="Teleformula HD" tvg-logo="https://lgaz.cc/img/8DzkGBa.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/be1ff326-6cb1-439a-8708-7c87025b8902.ts
+#EXTINF:-1 tvg-id="TELEHIT" tvg-name="Telehit" tvg-logo="https://i.ibb.co/XZMVXk3/telehit-musica-senales.jpg" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/fa936249-dabe-410d-9d10-3473de0704e5.ts
+#EXTINF:-1 tvg-id="TELERITMO" tvg-name="Teleritmo" tvg-logo="https://lgaz.cc/img/3Y0e3Qm.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/0b49a2a9-c973-4f93-942b-fc17ebdac541.ts
+#EXTINF:-1 tvg-id="tlc.co" tvg-name="TLC HD" tvg-logo="https://lgaz.cc/img/eh4DFFH.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/072489fa-f0d1-4771-9458-d11bd6705d55.ts
+#EXTINF:-1 tvg-id="telenovelas.mx" tvg-name="Tlnovelas" tvg-logo="https://lgaz.cc/img/fsl4IQC.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/984e8e4b-ea79-4a72-a21a-f7344efd330a.ts
+#EXTINF:-1 tvg-id="tnt.mx" tvg-name="TNT" tvg-logo="https://lgaz.cc/img/EMNCVfF.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/2c1d6058-817b-4043-b41a-29201fb2b43f.ts
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT HD" tvg-logo="https://lgaz.cc/img/EMNCVfF.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/fad6e3ab-5b75-4df4-b19f-7dbf4f0f4374.ts
+#EXTINF:-1 tvg-id="tvg-name="TNT Novelas FHD" tvg-logo="https://i.ibb.co/k6DXSCQY/Bj7lp1o.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/bd502ed2-f3d8-4665-a08e-14acfb8b29c4.ts
+#EXTINF:-1 tvg-id="tvg-name="TNT Series" tvg-logo="https://lgaz.cc/img/KJ2gS8r.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/d524afe2-d545-477d-94b5-993406a8097b.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 2" tvg-logo="https://lgaz.cc/img/kostHBk.png"
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/802818aa-b985-49eb-8e47-ae03964b3de9.ts
+#EXTINF:-1 tvg-id="tooncast.mx" tvg-name="Tooncast" tvg-logo="https://lgaz.cc/img/S9uC9Vi.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/7028a0b0-79c9-4924-b652-ce261026dab2.ts
+#EXTINF:-1 tvg-id="tooncast.mx" tvg-name="Tooncast HQ" tvg-logo="https://lgaz.cc/img/S9uC9Vi.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/617401cd-ce9c-41f4-87be-7ae82df60622.ts
+#EXTINF:-1 tvg-id="tudn.mx" tvg-name="TUDN MX" tvg-logo="https://lgaz.cc/img/FbT8oqo.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/8d4ad6d7-33e7-485d-ad2c-ea84d1f2fb8b.ts
+#EXTINF:-1 tvg-id="tudn.mx" tvg-name="TUDN MX HD" tvg-logo="https://lgaz.cc/img/FbT8oqo.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/8cfd0820-1337-4d11-8981-dfe2b2971385.ts
+#EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="TUDN USA" tvg-logo="https://lgaz.cc/img/FbT8oqo.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/ee2b979a-b05f-43b8-a03e-09e7bba0d598.ts
+#EXTINF:-1 tvg-id="tudn.mx" tvg-name="TUDN USA HD" tvg-logo="https://lgaz.cc/img/FbT8oqo.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/72f9a2b6-97f5-44f8-ab62-64a71f2d79f7.ts
+#EXTINF:-1 tvg-id="tvcdeportes.mx" tvg-name="TVC Deportes HD" tvg-logo="https://lgaz.cc/img/WmXKLl8.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/a76d0442-cf96-438d-8430-7904709612d4.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Cine" tvg-logo="https://i.ibb.co/0YBS0Rt/Proyecto-nuevo.png"
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/0709a34e-bf06-4c24-aaa1-130dadb9b45b.ts
+#EXTINF:-1 tvg-id="ultrakidz.us" tvg-name="Ultra Kids" tvg-logo="https://lgaz.cc/img/8CaBxh7.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/a16e24f9-2555-4454-b931-08d6b189f788.ts
+#EXTINF:-1 tvg-id="universalchannel.mx" tvg-name="Universal Cinema" tvg-logo="https://lgaz.cc/img/tmjDtZ0.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/d233a6b5-e646-446f-bb46-f68a3651cac6.ts
+#EXTINF:-1 tvg-id="UNIVERSAL.COMEDY.uy" tvg-name="Universal Comedy" tvg-logo="https://lgaz.cc/img/AbFHbWs.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/8527f8cd-bd93-4ec1-8cd1-bc263fa035b0.ts
+#EXTINF:-1 tvg-id="UNIVERSAL CRIME" tvg-name="Universal Crimen" tvg-logo="https://lgaz.cc/img/okjyXsZ.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/f3738dd6-deaa-40b3-8955-b8b313113630.ts
+#EXTINF:-1 tvg-id="UNIVERSAL PREMIERE" tvg-name="Universal Premiere" tvg-logo="https://lgaz.cc/img/jGJqcCV.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/69cdfcd9-b360-4ccd-885a-47eec3eb9f61.ts
+#EXTINF:-1 tvg-id="universalchannel.mx" tvg-name="Universal TV" tvg-logo="https://lgaz.cc/img/s5Ws5Tn.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/9529b861-cc15-4fc2-9977-a7a4a257b3e3.ts
+#EXTINF:-1 tvg-id="Canal.Warner.TV.(Costa.Rica).cr" tvg-name="VM Latino" tvg-logo="https://lgaz.cc/img/T2AC33H.png"
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/86ab7d0d-3bd7-4eb3-bc47-905b6db05e63.ts
+#EXTINF:-1 tvg-id="warnerchannel.mx" tvg-name="Warner" tvg-logo="https://lgaz.cc/img/Vm0UL4I.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/3bf5f00f-3ddb-4107-871a-dc32f0dadc40.ts
+#EXTINF:-1 tvg-id="warnerchannel.mx" tvg-name="Warner HD" tvg-logo="https://lgaz.cc/img/Vm0UL4I.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/07faaa81-6e65-4b44-bd07-b2f24063d694.ts
+#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="Bein Sports En Español" tvg-logo="https://pbs.twimg.com/profile_images/836319515679993856/o21RFHuA_400x400.jpg" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/f526d45b-35f5-4ae8-8488-9e1e1717f726.ts
+#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="Bein Sports En Español HD" tvg-logo="https://pbs.twimg.com/profile_images/836319515679993856/o21RFHuA_400x400.jpg" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/5212533a-10fa-4eb1-b9d2-ea1ebd3b5d74.ts
+#EXTINF:-1 tvg-id="Canal.2.de.República.Dominicana.(Teleantillas).dk" tvg-name="Claro Sports 2" tvg-logo="https://lgaz.cc/img/m4ubL69.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/25d89979-23b6-4f10-8173-45e0c10d25b0.ts
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="DAZN 01" tvg-logo="https://lgaz.cc/img/b0lypV3.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/273159a0-c0b5-4f27-89e7-b72f241e2c87.ts
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="DAZN Formula 1 (F1)" tvg-logo="https://lgaz.cc/img/b0lypV3.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/7f9cddb6-534e-4b55-a1f0-1e23d3cded39.ts
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="DAZN Formula 1 (F1) HD" tvg-logo="https://lgaz.cc/img/b0lypV3.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/40f40f0b-17fd-419e-96a0-43c8cf69a5b4.ts
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="DAZN La Liga" tvg-logo="https://lgaz.cc/img/b0lypV3.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/2a418bb5-bd04-47d7-ab13-e5f656d85d37.ts
+#EXTINF:-1 tvg-id="directvsportmix.ar" tvg-name="Directv Sports HD" tvg-logo="https://lgaz.cc/img/JB4vFL8.png"
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/cac15ed7-871c-41f6-bf5c-9fc0515b7748.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports" tvg-logo="https://lgaz.cc/img/4KX68Vi.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/344d5283-2f8f-43ae-85f0-5ba73d380f8e.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports HD" tvg-logo="https://lgaz.cc/img/4KX68Vi.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/de58742b-5957-4647-9fa0-ae4b5c1f2b6c.ts
+#EXTINF:-1 tvg-id="8365" tvg-name="AZ Cinema" tvg-logo="https://i.ibb.co/9shCDfh/cl-az-cinema-m.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/411abf21-dc89-4c29-9009-2230a503bcd1.ts
+#EXTINF:-1 tvg-id="azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://i.ibb.co/cFrBCXs/mx-azteca-7-m.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/422c53a6-dd73-433a-8c92-fd2448b1ef0c.ts
+#EXTINF:-1 tvg-id="azteca7.mx" tvg-name="Azteca 7 HD" tvg-logo="https://i.ibb.co/cFrBCXs/mx-azteca-7-m.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/1d4069c1-1af3-467e-b0ec-68a4c35bdaf2.ts
+#EXTINF:-1 tvg-id="aztecauno.mx" tvg-name="Azteca UNO" tvg-logo="https://lgaz.cc/img/oeOKkLR.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/1a38f7e5-447e-4817-bb37-390e6bd1c5eb.ts
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://lgaz.cc/img/EunaV4p.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/9f474502-eab3-4121-a1d2-9ff77c5d12cd.ts
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5 HD" tvg-logo="https://lgaz.cc/img/EunaV4p.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/d88e9bc7-30d6-4521-a45d-a8f5a9bc56bb.ts
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://i.ibb.co/SRQxnY4/images.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/476977f2-58b1-43e8-8df2-810f465b2eae.ts
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas HD" tvg-logo="https://i.ibb.co/SRQxnY4/images.png"
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/d0ae2357-2890-4360-81c3-1e2063156475.ts
+#EXTINF:-1 tvg-id=" tvg-name="NU9VE TV" tvg-logo="https://lgaz.cc/img/ZLLlehb.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/1630a71e-ac4b-4d51-92ad-6cebde191bd5.ts
+#EXTINF:-1 tvg-id="" tvg-name="Once" tvg-logo="https://www.gmkfreelogos.com/logos/O/img/Once_TV_Mexico.gif" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/b2850666-3be0-4c12-9a90-02d056c803b9.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telemax" tvg-logo="https://lgaz.cc/img/G8ShHgA.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/2b8bbd7c-2baf-45fc-8e73-f410b91c0209.ts
+#EXTINF:-1 tvg-id="" tvg-name=" The Simpsons" tvg-logo="https://lgaz.cc/img/T9PcBwF.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/8546b144-8b0f-44a5-a963-2f08638b4f41.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA| ABC Houston" tvg-logo="https://i.ibb.co/2MY5RHX/ABC.png" 
+http://zgazy.com:8080/live/JesusLlite/qk3js5ZD3p/c53cbcfa-022a-421d-b9e4-3ec8e2b7408c.ts
